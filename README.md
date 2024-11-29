@@ -1,9 +1,11 @@
 # Naruto Character Representation by Village  
 
 ## Goal  
-Naruto is a manga created by Masashi Kishimoto, which started in 1999 and ran until 2014. The author was able to create a vast universe with his characters and settings. Naruto, his main character is from an area called the Hidden Leaf village and most of the characters he interacts with are from the said village, there are four other main villages namely the Hidden Sand, Hidden Mist, Hidden Cloud and Hidden Stone, each with their cast of characters who hail from each. I was interested in finding out what village had the most representation in the series (after the Hidden Leaf).
+Naruto is a manga created by Masashi Kishimoto, which started in 1999 and ran until 2014. The author created a vast universe with his characters and settings. Naruto, his main character is from an area called the Hidden Leaf village and most of the characters he interacts with are from the said village, there are four other main villages namely the Hidden Sand, Hidden Mist, Hidden Cloud and Hidden Stone, each with their cast of characters who hail from each. I was interested in finding out what village had the most representation in the series (after the Hidden Leaf).
 
 This project aims to determine which village had the most character representation after the Hidden Leaf.
+
+(you might have to zoom in on mobile) 
 
 ![Naruto](naruto-village.png)
 
